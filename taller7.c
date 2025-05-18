@@ -6,7 +6,7 @@
 int menu() {
     int opc;
     printf("\n--- MENU ---\n");
-    printf("1. Ingresar pedido\n");
+    printf("1. Ingresar pedido y ver lo requerido\n");
     printf("2. Mostrar productos\n");
     printf("3. Editar producto\n");
     printf("4. Mostrar recursos\n");
